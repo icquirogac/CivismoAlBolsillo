@@ -1,3 +1,3 @@
 <h1># CivismoAlBolsillo</h1>
-<p>Repositorio del Proyecto</p>
-<b>lo que sea nuevamente</b>
+<b>Repositorio del Proyecto</b>
+<b>Bienvenido a mi Repositorio</b>
